@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2CC52F2EF038374A0F0F58EC688CD9CDD422A825",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A98541063E87C4D787D22B2F56D2459A131C445B" : 9223372036854775807,
+    "2CC52F2EF038374A0F0F58EC688CD9CDD422A825" : 9223372036854775807,
+    "C7A5576115446777BCD1FEEF665E27645AA47B11" : 9223372036854775807,
+    "7AA6DD73804290B79CD29CBD6DD5B069EBE0B289" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C5C89CA3-A014-4061-89EF-9191045BF52D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A98541063E87C4D787D22B2F56D2459A131C445B" : "HealthCloudV3\/",
+    "2CC52F2EF038374A0F0F58EC688CD9CDD422A825" : "Catalog-Yarima\/",
+    "C7A5576115446777BCD1FEEF665E27645AA47B11" : "Catalog\/",
+    "7AA6DD73804290B79CD29CBD6DD5B069EBE0B289" : "Medical_Social_Network-MSN\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Catalog",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Catalog.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/213.233.175.250:8001\/ios\/Catalog-Yarima.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CC52F2EF038374A0F0F58EC688CD9CDD422A825"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/213.233.175.250:8001\/ios\/Medical_Social_Network-MSN.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7AA6DD73804290B79CD29CBD6DD5B069EBE0B289"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/213.233.175.250:8001\/ios\/HealthCloudV3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A98541063E87C4D787D22B2F56D2459A131C445B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/213.233.175.250:8001\/ios\/Catalog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C7A5576115446777BCD1FEEF665E27645AA47B11"
+    }
+  ]
+}
